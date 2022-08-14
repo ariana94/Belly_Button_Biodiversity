@@ -1,0 +1,16 @@
+body{
+    font-family: 'Arial'; 
+    background-color: rgb(199, 212, 228);
+}
+
+.jumbotron {
+    background-color:rgb(199, 212, 228);
+    background-size: 100% 100%;
+
+}
+
+.rainbow-lr {
+    background: linear-gradient(to right, rgba(255, 0, 0, 0.404), rgba(255, 166, 0, 0.404) , rgba(255, 255, 0, 0.404), rgba(0, 128, 0, 0.404), rgba(0, 255, 255, 0.404), rgba(0, 0, 255, 0.404), rgba(238, 130, 238, 0.404));
+    color:transparent;
+    background-clip: text;
+  }
